@@ -84,7 +84,7 @@ createCanvas(600, 200);
 function draw() {
   //console.log(sample);
   //set background color
-  background("black");
+  background("white");
   console.log(trex.y);
   //To display score system
   text("Score: " + score, 500,50);
